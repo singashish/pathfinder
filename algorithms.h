@@ -1,1 +1,7 @@
-
+#include "algorithms/bfs.h"
+#include "algorithms/dfs.h"
+#include "algorithms/dijkstra.h"
+#include "algorithms/astar.h"
+#include "algorithms/bellman_ford.h"
+#include "algorithms/floyd_warshall.h"
+#include "algorithms/utils.h"
